@@ -2,4 +2,15 @@ git init --> initialize git in folder
 
 git add "text1.txt"
 
+git config --global user.email "ksbharani33kick@gmail.com"
+
 git commit -m "first commit"
+
+git status --> what is the status of file its added any content or modified any content
+
+git log --> it shows the log data about that file
+
+git diff text1.txt --> using this command we can check what changes had happened
+
+git checkout text1.txt --> before modified data is added to that file
+
